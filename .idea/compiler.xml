@@ -6,16 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="HolaMundo" />
+        <module name="Main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="HolaMundo" target="16" />
-        <module name="mian" />
-      </profile>
-    </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="mian" target="16" />
+      <module name="Main" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
